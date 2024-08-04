@@ -1,7 +1,7 @@
 # Hello, I'm Arun R
 <a href="https://www.linkedin.com/in/darkshadow/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Brief Introduction -
+## Brief Introduction 
 
 I am a third-year Computer Science student with a strong foundation in cybersecurity. My passion for technology drives me to explore and solve intricate security challenges. Here, you'll find my journey and projects in the realm of cybersecurity, showcasing my commitment to learning and innovation.
 
